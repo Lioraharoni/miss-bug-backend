@@ -1,46 +1,80 @@
 [
     {
-        "_id": "3XIXpq",
-        "title": "cdf",
-        "severity": 3,
-        "createdAt": 1745350791837
-    },
-    {
-        "_id": "GWwuxW",
-        "title": "bnm",
-        "severity": 7
-    },
-    {
-        "_id": "n0WIue",
-        "title": "jkl",
-        "severity": 20
-    },
-    {
-        "_id": "2MQDGw",
-        "title": "fgsj jhdsgfs",
-        "severity": 5
-    },
-    {
-        "_id": "oJTpE5",
-        "title": "zxc",
-        "severity": 3,
-        "createdAt": 1745255230407
-    },
-    {
-        "_id": "hGgzAy",
-        "title": "zxc",
-        "severity": 6
-    },
-    {
-        "_id": "abc123",
-        "title": "Cannot save a Car",
-        "severity": 3,
-        "createdAt": 1542107359454
-    },
-    {
         "_id": "abc456",
-        "title": "Cannot save a Car",
-        "severity": 4,
+        "title": "Updated 123456",
+        "severity": 12,
         "createdAt": 1542107359455
+    },
+    {
+        "title": "New bug",
+        "severity": 12,
+        "_id": "cr0DNB",
+        "createdAt": 1745501289543
+    },
+    {
+        "title": "ABCDEFG",
+        "severity": 10,
+        "_id": "r6iNky",
+        "createdAt": 1745502406384
+    },
+    {
+        "title": "AAA",
+        "severity": 9,
+        "_id": "HIBFsH",
+        "createdAt": 1745503432903
+    },
+    {
+        "title": "aaab",
+        "severity": 1,
+        "_id": "IjPJDa",
+        "createdAt": 1745507444276
+    },
+    {
+        "title": "sdf",
+        "severity": 8,
+        "_id": "FdK5mh",
+        "createdAt": 1745868139334
+    },
+    {
+        "title": "ccc",
+        "severity": 7,
+        "_id": "RUJkZ3",
+        "createdAt": 1745868156094
+    },
+    {
+        "title": "qwe",
+        "severity": 3,
+        "_id": "d3I14T",
+        "createdAt": 1745868170852
+    },
+    {
+        "title": "jkl",
+        "severity": 6,
+        "_id": "nHBYnt",
+        "createdAt": 1745868185508
+    },
+    {
+        "title": "new1",
+        "severity": 5,
+        "_id": "nEpb7p",
+        "createdAt": 1745868449500
+    },
+    {
+        "title": "new2",
+        "severity": 20,
+        "_id": "Gd6xmp",
+        "createdAt": 1745868463953
+    },
+    {
+        "title": "dont worry",
+        "severity": 2,
+        "_id": "Qmhg6l",
+        "createdAt": 1746030149365
+    },
+    {
+        "title": "new one",
+        "severity": 55,
+        "_id": "GHDP4I",
+        "createdAt": 1746045588495
     }
 ]

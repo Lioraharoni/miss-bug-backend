@@ -8,3 +8,33 @@
 21.4.2025, 19:36:18 - ERROR - Couldn't get bug save | Error: Cannot find bug
 21.4.2025, 19:39:55 - ERROR - Couldn't get bug save | Error: Cannot find bug
 21.4.2025, 21:24:38 - ERROR - Couldn't get bug abc789 | Error: Cannot find bug
+24.4.2025, 15:15:52 - ERROR - Couldn't get bug oJTpE5 | Error: Cannot find bug
+24.4.2025, 15:33:20 - ERROR - Couldn't get bug oJTpE5 | Error: Cannot find bug
+24.4.2025, 16:35:06 - ERROR - Couldn't get bug save | Error: Cannot find bug
+24.4.2025, 17:52:39 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:52:49 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:52:53 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:53:04 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:53:08 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:54:32 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 17:58:16 - ERROR - Couldn't get bugs | TypeError: a.toUpperCase is not a function
+24.4.2025, 17:58:20 - ERROR - Couldn't get bugs | TypeError: a.toUpperCase is not a function
+24.4.2025, 17:59:56 - ERROR - Couldn't get bugs | TypeError: a.toUpperCase is not a function
+24.4.2025, 17:59:58 - ERROR - Couldn't get bugs | TypeError: a.toUpperCase is not a function
+24.4.2025, 18:05:45 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:05:51 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:05:57 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:05:59 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:09:04 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:09:05 - ERROR - Couldn't get bugs | TypeError: Cannot read properties of undefined (reading 'toUpperCase')
+24.4.2025, 18:15:45 - ERROR - Couldn't get bugs | TypeError: The comparison function must be either a function or undefined: #<Object>
+27.4.2025, 19:59:44 - ERROR - Couldn't get bug pageIdx=1 | Error: Cannot find bug
+27.4.2025, 20:00:05 - ERROR - Couldn't get bug pageIdx=0 | Error: Cannot find bug
+30.4.2025, 23:28:05 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:28:07 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:28:42 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:29:11 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:29:36 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:31:52 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:39:55 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
+30.4.2025, 23:41:17 - ERROR - Couldn't get bug undefined | Error: Cannot find bug
